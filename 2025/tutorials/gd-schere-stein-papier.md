@@ -19,7 +19,7 @@ Gebe deiner neuen Variable den Namen **hand** und klicke auf ``|OK|``.
 ## {Schritt 2}
 Klicke erneut auf die Kategorie ``||variables:Variablen||`` unter Werkzeuge.
 Du wirst bemerken, dass einige neue Blöcke erschienen sind.
-Ziehe den Block ``||variables:setze hand auf 0||`` in den Block ``||input:wenn geschüttelt||``. Wir beginnen unser Schere-Stein-Papier-Spiel, wenn wir das micro:bit schütteln 👋.
+Ziehe den Block ``||variables:setze hand auf 0||`` in den Block ``||input:wenn geschüttelt||``. Wir beginnen unser Schere-Stein-Papier-Spiel, wenn wir den micro:bit schütteln 👋.
  
 ```blocks
 let hand = 0;
