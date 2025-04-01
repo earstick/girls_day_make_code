@@ -198,7 +198,7 @@ input.onGesture(Gesture.Shake, function() {
  
 ## {Schritt 13}
  
-Teste deinen Code! Bewege den Mauszeiger schnell über den @boardname-Simulator am linken Bildschirmrand, um den simulierten micro:bit zu schütteln. Siehst du die Symbole für Schere, Stein und Papier zufällig erscheinen? ⭐ Großartig! ⭐
+Teste deinen Code! Bewege den Mauszeiger schnell über den micro:bit-Simulator am linken Bildschirmrand, um den simulierten micro:bit zu schütteln. Siehst du die Symbole für Schere, Stein und Papier zufällig erscheinen? ⭐ Großartig! ⭐
  
 ![Shaking](/static/mb/projects/rock-paper-scissors/rpssim3.gif)
  
