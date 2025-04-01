@@ -204,7 +204,7 @@ Teste deinen Code! Bewege den Mauszeiger schnell über den micro:bit-Simulator a
  
 ## {Schritt 14}
  
-Wenn du ein micro:bit besitzt, schließe es an deinen Computer an und klicke auf ``|Download|``. Folge den Anweisungen, um deinen Code auf das micro:bit zu übertragen. Sobald dein Code heruntergeladen ist, kannst du deinen micro:bit an die Batterie anschließen und einen anderen micro:bit oder einen Menschen zu einem Schere-Stein-Papier-Spiel herausfordern!
+Wenn du ein micro:bit besitzt, schließe es an deinen Computer an und klicke auf ``|Download|``. Folge den Anweisungen, um deinen Code auf das micro:bit zu übertragen. Sobald dein Code heruntergeladen ist, kannst du deinen micro:bit an die Batterie anschließen und einen anderen micro:bit oder Menschen zu einem Schere-Stein-Papier-Spiel herausfordern!
  
 ![micro:bit-Hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
  
