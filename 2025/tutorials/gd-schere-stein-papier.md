@@ -4,7 +4,7 @@
  
 ![RPS-Cartoon](/static/mb/projects/a4-motion.png)
  
-Verwandle dein @boardname in ein **Schere-Stein-Papier**-Spiel, das du mit deinen Freunden spielen kannst!
+Verwandle dein @boardname@ in ein **Schere-Stein-Papier**-Spiel, das du mit deinen Freunden spielen kannst!
 
 ## {Schritt 1}
  
@@ -19,7 +19,7 @@ Gebe deiner neuen Variable den Namen **hand** und klicke auf ``|OK|``.
 ## {Schritt 2}
 Klicke erneut auf die Kategorie ``||variables:Variablen||`` unter Werkzeuge.
 Du wirst bemerken, dass einige neue Blöcke erschienen sind.
-Ziehe den Block ``||variables:setze hand||`` in den Block ``||input:wenn geschüttelt||``. Wir beginnen unser Schere-Stein-Papier-Spiel, wenn wir das @boardname schütteln 👋.
+Ziehe den Block ``||variables:setze hand||`` in den Block ``||input:wenn geschüttelt||``. Wir beginnen unser Schere-Stein-Papier-Spiel, wenn wir das @boardname@ schütteln 👋.
  
 ```blocks
 let hand = 0;
@@ -29,7 +29,7 @@ input.onGesture(Gesture.Shake, function() {
 ```
  
 ## {Schritt 3}
-Klicke auf die Kategorie ``||math:Mathematik||`` unter Werkzeuge. Ziehe einen Block ``||math:wähle eine zufällige Zahl von ... bis ...||`` und lege ihn in den Block ``||variables:setze hand||``, indem du die Zahl 0 ersetzt. Wenn wir nun unseren @boardname schütteln würden, würde die Variable eine Zufallszahl zwischen 1 und 3 enthalten.
+Klicke auf die Kategorie ``||math:Mathematik||`` unter Werkzeuge. Ziehe einen Block ``||math:wähle eine zufällige Zahl von ... bis ...||`` und lege ihn in den Block ``||variables:setze hand||``, indem du die Zahl 0 ersetzt. Wenn wir nun unseren @boardname@ schütteln würden, würde die Variable eine Zufallszahl zwischen 1 und 3 enthalten.
  
 ```blocks
 let hand = 0;
