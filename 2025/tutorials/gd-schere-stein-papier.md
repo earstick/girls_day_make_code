@@ -19,7 +19,7 @@ Gebe deiner neuen Variable den Namen **hand** und klicke auf ``|OK|``.
 ## {Schritt 2}
 Klicke erneut auf die Kategorie ``||variables:Variablen||`` unter Werkzeuge.
 Du wirst bemerken, dass einige neue Blöcke erschienen sind.
-Ziehe den Block ``||variables:setze hand auf 0||`` in den Block ``||input:wenn geschüttelt||``. Wir beginnen unser Schere-Stein-Papier-Spiel, wenn wir das @boardname@ schütteln 👋.
+Ziehe den Block ``||variables:setze hand auf 0||`` in den Block ``||input:wenn geschüttelt||``. Wir beginnen unser Schere-Stein-Papier-Spiel, wenn wir das micro:bit schütteln 👋.
  
 ```blocks
 let hand = 0;
@@ -29,7 +29,7 @@ input.onGesture(Gesture.Shake, function() {
 ```
  
 ## {Schritt 3}
-Klicke auf die Kategorie ``||math:Mathematik||`` unter Werkzeuge. Ziehe einen Block ``||math:wähle eine zufällige Zahl von 1 bis 3||`` und lege ihn in den Block ``||variables:setze hand||``, indem du die Zahl **0** ersetzt. Wenn wir nun unseren @boardname@ schütteln würden, würde die Variable eine Zufallszahl zwischen 1 und 3 enthalten.
+Klicke auf die Kategorie ``||math:Mathematik||`` unter Werkzeuge. Ziehe einen Block ``||math:wähle eine zufällige Zahl von 1 bis 3||`` und lege ihn in den Block ``||variables:setze hand||``, indem du die Zahl **0** ersetzt. Wenn wir nun unseren micro:bit schütteln würden, würde die Variable eine Zufallszahl zwischen 1 und 3 enthalten.
  
 ```blocks
 let hand = 0;
@@ -198,15 +198,15 @@ input.onGesture(Gesture.Shake, function() {
  
 ## {Schritt 13}
  
-Teste deinen Code! Bewege den Mauszeiger schnell über den @boardname-Simulator am linken Bildschirmrand, um den simulierten @boardname@ zu schütteln. Siehst du die Symbole für Schere, Stein und Papier zufällig erscheinen? ⭐ Großartig! ⭐
+Teste deinen Code! Bewege den Mauszeiger schnell über den @boardname-Simulator am linken Bildschirmrand, um den simulierten micro:bit zu schütteln. Siehst du die Symbole für Schere, Stein und Papier zufällig erscheinen? ⭐ Großartig! ⭐
  
 ![Shaking](/static/mb/projects/rock-paper-scissors/rpssim3.gif)
  
 ## {Schritt 14}
  
-Wenn du ein @boardname@ besitzt, schließe es an deinen Computer an und klicke auf ``|Download|``. Folge den Anweisungen, um deinen Code auf das @boardname@ zu übertragen. Sobald dein Code heruntergeladen ist, kannst du deinen @boardname@ an die Batterie anschließen und einen anderen @boardname@ oder einen Menschen zu einem Schere-Stein-Papier-Spiel herausfordern!
+Wenn du ein micro:bit besitzt, schließe es an deinen Computer an und klicke auf ``|Download|``. Folge den Anweisungen, um deinen Code auf das micro:bit zu übertragen. Sobald dein Code heruntergeladen ist, kannst du deinen micro:bit an die Batterie anschließen und einen anderen micro:bit oder einen Menschen zu einem Schere-Stein-Papier-Spiel herausfordern!
  
-![@boardname@-Hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
+![micro:bit-Hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
  
 ## {Schritt 15}
  
